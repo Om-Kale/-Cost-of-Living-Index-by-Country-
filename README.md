@@ -11,7 +11,13 @@ I've just wrapped up an insightful project where I analyzed the **Cost of Living
 I’m thrilled with how it turned out and would love to hear your thoughts! 💬
 
 📌 Check out the dashboard screenshot below, and feel free to reach out if you want to discuss data analytics, Power BI, or anything in between!
-![2024-08-12](https://github.com/user-attachments/assets/ac9c00cb-f52d-449a-8f31-bc3a9fd29efa)
+
+![2024-08-12](https://github.com/user-attachments/assets/023ac957-e7bb-4af1-9ee9-7af13c35ebbf)
+
+
+## Video
+https://github.com/user-attachments/assets/e907adc9-c2c8-4bd4-b433-675c362a3e9f
+
 
 
 #DataVisualization #PowerBI #DataAnalysis #CostOfLiving #DataStorytelling #Analytics
